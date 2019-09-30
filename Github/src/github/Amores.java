@@ -7,7 +7,7 @@ package github;
 
 /**
  *
- * @author Diego Santamaria
+ * @author Usuario
  */
 public class Amores {
     
