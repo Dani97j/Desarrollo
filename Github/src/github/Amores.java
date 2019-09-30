@@ -7,8 +7,11 @@ package github;
 
 /**
  *
- * @author Usuario
+ * @author Luis Amores
  */
 public class Amores {
-    
+     public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Hola mundo");
+    }
 }
