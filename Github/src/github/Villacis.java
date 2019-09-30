@@ -5,7 +5,6 @@
  */
 package github;
 
-import static java.sql.DriverManager.println;
 
 /**
  *
@@ -13,7 +12,5 @@ import static java.sql.DriverManager.println;
  */
 public class Villacis {
     //documentacion
-    public static void main(String[] args) {
-        println("Hola Mundo");
-    }
+    
 }
